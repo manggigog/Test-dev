@@ -1,0 +1,1 @@
+import{N as r}from"./index-BvL8wS8a.js";const t=e=>r("POST","/refundReason/submit",e),s=e=>r("GET","/refundReason/list",e),o=e=>r("POST","/refundReason/cancel",e),a=e=>r("POST","/refundReason/review",e),u=e=>r("POST","/order/platformIntervention",e);export{a,o as b,u as c,t as o,s as r};
