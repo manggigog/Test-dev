@@ -1,0 +1,1 @@
+import{R as r}from"./index-LRhcxFAI.js";const t=s=>r("GET","/fmUsers/list",s),n=s=>r("GET","/fmUsers/parent",s),a=s=>r("GET",`store/getSales?address=${s}`,null),m=s=>r("GET",`/fm/permissions/flag?resourceType=${s}`,null),o=""+new URL("../images/WMAI-BCBaCUmb.png",import.meta.url).href;export{o as _,m as a,n as b,a as c,t as q};

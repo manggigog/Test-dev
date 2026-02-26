@@ -1,1 +1,0 @@
-import{R as e,a}from"./index-BckdT6oc.js";const o=()=>{var r;const{accountStore:s}=a(),t=s.account||((r=s.sign)==null?void 0:r.address);return e("GET","/address/list",{address:t})},u=s=>e("POST","/address/save",s),n=s=>e("POST","/address/remove?id="+s,{id:s}),c=s=>e("POST","/address/setDefault?id="+s,{id:s});export{c as a,n as b,u as c,o as q};
