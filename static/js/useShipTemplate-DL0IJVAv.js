@@ -1,1 +1,0 @@
-import{g as n}from"./enums-DlE-aiss.js";import{au as o}from"./index-CU2nzZe6.js";const{t:r}=o.global,g=()=>({getExpressTypeText:e=>{const t=e.shippingTemplateType;return n(r)[t]||"--"},getCartExpressTypeText:(e,t)=>{if(!e||!e.goodsId)return null;if(!t)return"--";const p=e.goodsId,s=t.find(T=>T.goodsId===p);return s&&n(r)[s.shippingTemplateType]||"--"}});export{g as u};
