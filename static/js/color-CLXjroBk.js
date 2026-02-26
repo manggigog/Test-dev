@@ -1,0 +1,1 @@
+function p(t,s=1){if(!t)return"#f5f5f5";t=t.replace("#",""),t.length===3&&(t=t.split("").map(n=>n+n).join(""));const r=parseInt(t.substring(0,2),16),a=parseInt(t.substring(2,4),16),i=parseInt(t.substring(4,6),16),o=Math.min(Math.max(s,0),1);return`rgba(${r}, ${a}, ${i}, ${o})`}export{p as h};

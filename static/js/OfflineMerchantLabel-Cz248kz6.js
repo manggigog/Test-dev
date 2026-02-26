@@ -1,0 +1,1 @@
+import{_ as e,G as n,H as o,Q as r}from"./vendor-Dr_RpJ_Y.js";const a={},s={class:"absolute top-0 right-0 px-1.5 text-xs font-normal whitespace-nowrap rounded-tr-lg rounded-bl-lg leading-normal bg-[#F44] text-b6 font-Puhui"};function c(t,l){return o(),n("div",s,r(t.$t("goods.Buying agent")),1)}const d=e(a,[["render",c]]);export{d as O};

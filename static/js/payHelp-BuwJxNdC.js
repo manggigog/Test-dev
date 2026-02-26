@@ -1,0 +1,1 @@
+var T=(E=>(E[E.OWNER=0]="OWNER",E[E.OTHER=1]="OTHER",E))(T||{}),r=(E=>(E[E.WAIT=0]="WAIT",E[E.PAID=1]="PAID",E[E.CANCELLED=3]="CANCELLED",E[E.TIMEOUT=4]="TIMEOUT",E))(r||{}),R=(E=>(E[E.OWNER=0]="OWNER",E[E.OTHER=1]="OTHER",E[E.PAYOTHER=2]="PAYOTHER",E))(R||{});export{R as O,T as P,r as a};

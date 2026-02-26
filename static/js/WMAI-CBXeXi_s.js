@@ -1,0 +1,1 @@
+import{R as r}from"./index-CU2nzZe6.js";const t=s=>r("GET","/fmUsers/list",s),a=s=>r("GET","/fmUsers/parent",s),n=s=>r("GET",`store/getSales?address=${s}`,null),o=s=>r("GET",`/fm/permissions/flag?resourceType=${s}`,null),m="/static/images/WMAI-BCBaCUmb.png";export{m as _,o as a,a as b,n as c,t as q};

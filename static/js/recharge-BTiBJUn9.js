@@ -1,1 +1,0 @@
-const s="/Test-dev/static/images/otc-account-B_j65M_e.svg",t="/Test-dev/static/images/arrow-DZX9TXX9.svg",a="/Test-dev/static/images/wallet-account-CFnMd_1x.svg",e="/Test-dev/static/images/recharge-By9X9BvR.svg";export{t as _,s as a,a as b,e as c};

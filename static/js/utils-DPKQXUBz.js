@@ -1,0 +1,1 @@
+const a=()=>{const r=new Uint8Array(16);window.crypto.getRandomValues(r),r[6]=r[6]&15|64,r[8]=r[8]&63|128;let t=Array.from(r).map(e=>e.toString(16).padStart(2,"0")).join("");return[t.substring(0,8),t.substring(8,12),t.substring(12,16),t.substring(16,20),t.substring(20,32)].join("-").replace(/^[0-9]/,"a")};export{a as g};
